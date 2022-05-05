@@ -8,5 +8,5 @@
  2. information.txt
 ### Listas sin enumerar
 [//]: # (Listas sin enumerar)
-**Index.html**
-**information.txt**
+* **Index.html**
+* **information.txt**
